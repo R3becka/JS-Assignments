@@ -1,4 +1,10 @@
-console.log("Hello World!");
-console.log("My name is Rebecka");
-console.log("I ama 31 years old")
-console.log("I'll turn 32 in October")
+
+const five = 5;
+const eight = 8;
+let total = 0;
+console.log(five);
+console.log(eight);
+
+total = five + eight;
+console.log(total);
+console.log(five+eight)
