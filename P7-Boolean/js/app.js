@@ -23,9 +23,9 @@ console.log(isTeenager);
 console.log(isAdult);
 console.log(ageOfPerson);
 
-let heightFromGround = 1;
+let heightFromGround = 0
 let playerTouchGround = heightFromGround === 0;
-let playerHasJetpack = true;
+let playerHasJetpack = false;
 
 if(playerTouchGround){
   console.log("Player is on the ground.");
