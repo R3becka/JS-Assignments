@@ -40,3 +40,13 @@ else {
 }
 //let result = condition ? thenValue : elseValue är koden nedan
 favoriteNumber % 3 === 0 ? console.log("Favorite Number is odd") : console.log("Favorite Number is even")
+
+function makeLasagna() {
+  console.log("Fry meat.")
+  console.log("Cut Onions.")
+  console.log("Fry Onions.")
+  console.log("Add TomatoSauce.")
+  console.log("Add Spices.")
+  console.log("Boil.")
+}
+makeLasagna()
