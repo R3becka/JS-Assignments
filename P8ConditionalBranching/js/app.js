@@ -49,4 +49,4 @@ function makeLasagna() {
   console.log("Add Spices.")
   console.log("Boil.")
 }
-makeLasagna()
+makeLasagna();
