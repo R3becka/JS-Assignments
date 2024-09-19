@@ -22,7 +22,7 @@ if(playerTouchGround){
   console.log("Player can jump");
 }
 else if(playerHasJetpack) {
-  console.log("Player can Jet Away")
+  console.log("Player can Jet Away");
 }
 
 else {
