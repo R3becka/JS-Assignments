@@ -37,8 +37,12 @@
 // }
 
 
-let item1;
-let item2;
-let item3;
-let item4;
+let studentNames = ["Aida" , "Nazret" , "Sofie" , "Nattha" , "Rebecka", "Emma" , "Jennifer" , "Ben" , "Moa" , "Pauline"];
+console.log("We have: " + studentNames.length + " students");
+studentNames[3] = "Michael";
+studentNames.push("Ellie");
+for (let i = 0; i < studentNames.length; i++) {
+  console.log("Good morning " + studentNames[i] + "!");
+
+}
 
