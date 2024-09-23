@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfda4a0a-28b7-4cd1-bcf3-d1ca16ccbf86" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P11ForLoops/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../P11ForLoops/js/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +15,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2ly4tIqfZB0Pg5Q5pRb9DYbsaeG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,7 +28,7 @@
     "Node.js.app.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Projects/JS-Assignments/P5Operators/js/vendor",
+    "last_opened_file_path": "C:/Projects/JS-Assignments/P5Operators",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,6 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1726139195682</updated>
       <workItem from="1726139198902" duration="9973000" />
+      <workItem from="1727082574405" duration="8000" />
     </task>
     <servers />
   </component>
