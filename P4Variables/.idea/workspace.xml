@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8978ed2-9b25-4f49-ab3d-1261e91703c4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../P5Operators/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../P5Operators/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P12-Arrays/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../P12-Arrays/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P5Operators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../P5Operators/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P9Functions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../P9Functions/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +18,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2lxoIDBxKJSQWM5z3VGROGpioMz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,6 +31,7 @@
     "Node.js.app.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Projects/JS-Assignments/P4Variables",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -54,6 +58,8 @@
       <option name="presentableId" value="Default" />
       <updated>1726131006826</updated>
       <workItem from="1726131009800" duration="5834000" />
+      <workItem from="1727335158054" duration="171000" />
+      <workItem from="1727335357168" duration="8000" />
     </task>
     <servers />
   </component>
@@ -67,7 +73,6 @@
           <url>file://$PROJECT_DIR$/js/app.js</url>
           <line>4</line>
           <log-expression expression=";" language="JavaScript" />
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
